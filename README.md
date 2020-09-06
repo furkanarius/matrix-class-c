@@ -25,7 +25,7 @@ For instance, the above matrix is a 4x5 matrix. It means it has 4 rows and 5 col
 
 There are some simple and some complex things you can do with a matrix, but we won’t delve into those complex ones. You can add two matrices for instance, but they have to have the same row and columns. The same rules apply to the subtraction.
 
-For multiplication, however, we’ve got a fairly difficult rule. I’ll just post the video describing that process, since PatrickJMT did a pretty good job explaining that concept.
+For multiplication, however, we’ve got a fairly difficult rule. [I’ll just post the video describing that process](https://www.youtube.com/watch?v=sYlOjyPyX3g&feature=emb_title), since PatrickJMT did a pretty good job explaining that concept.
 
 We also have Transpose operation which is basically changing rows with columns and columns with rows. For instance, Row 1 will be your new Column 1 and Row 2 will be your new Column 2 and so forth.
 
